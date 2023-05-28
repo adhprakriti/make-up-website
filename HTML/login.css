@@ -1,0 +1,22 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color: #f3dbb2;
+    font-size:larger;
+}
+
+.main{
+    margin-left: 40%;
+    margin-top: 10%
+}
+
+.main button{
+    display: inline-block;
+    padding: 5px 10px;
+    background-color: #e29940;
+    color: #fcfbfb;
+    border-radius:100px;
+    border-color: #e29940;
+}
+  .btn:hover {
+    background-color: #4d4141;
+  }
